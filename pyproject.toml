@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "second-part-test"
+version = "0.1.0"
+description = ""
+authors = ["NevermoreKatana <grenkachannel@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.9.3"
+asyncio = "^3.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
