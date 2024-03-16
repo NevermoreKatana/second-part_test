@@ -5,6 +5,10 @@
 - asyncio
 - json
 
+## Пример работы 
+[![asciicast](https://asciinema.org/a/66KvOG6mltZ90kG23PI0xklVG.svg)](https://asciinema.org/a/66KvOG6mltZ90kG23PI0xklVG)
+
+
 # Установка 
 ```
 make install
